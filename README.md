@@ -1,6 +1,6 @@
 # Regression-Analysis-with-R
 
-My homework solutions (in R) of the Ph.D. level statistics course (STAT 608) in Texas A&M University.
+My homework solutions (in R) of the Ph.D. level statistics course (STAT 608) at Texas A&M University.
 
 Reference Book : A Modern Approach to Regression with R by Simon J. Sheather
 
