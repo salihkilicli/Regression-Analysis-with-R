@@ -2,7 +2,7 @@
 
 My homework solutions (in R) of the Ph.D. level statistics course (STAT 608) in Texas A&M University.
 
-Reference Book : A Modern Approach to Regression with R - Simon J. Sheather
+Reference Book : A Modern Approach to Regression with R by Simon J. Sheather
 
 Topics covered:
 
