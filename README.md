@@ -15,8 +15,8 @@ Topics covered:
   - R^2
   - AIC, AIC_c, BIC
   - All possible subsets
-  -Stepwise (Backward Eimination, Forward Selection)
-  -LASSO
+  - Stepwise (Backward Eimination, Forward Selection)
+  - LASSO
   7) Logistic Regression
   8) Serially Correlated Errors (AR(1) Models)
   
